@@ -1,4 +1,3 @@
 # Randy's Notes
-# Hello
-# Test
-# Test 2
+## Summary
+This repository contains all of the notes taken by Randy for the Lighthouse Labs Web Development Bootcamp.
